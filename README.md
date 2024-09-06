@@ -1,5 +1,7 @@
 # Maze-Generator-CPP
 It generates a maze!
+Current time: 45 ms
+Goal time: <1 ms
 
 ```
 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ ⬛ 🟦 ⬛ ⬛ ⬛ ⬛ ⬛ ⬛
